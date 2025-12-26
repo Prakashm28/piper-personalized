@@ -1,0 +1,18 @@
+{
+    "speaking_patterns": {
+        "speaking_rate": 48.70385487528345,
+        "avg_pause": 0.06449987402368355,
+        "max_pause": 0.18575963718820862,
+        "min_pause": 0.0
+    },
+    "prosody_patterns": {
+        "pitch_mean": 136.23391838878237,
+        "pitch_std": 45.67515266866416,
+        "energy": 0.01745915788484063
+    },
+    "emotion_patterns": {
+        "spectral_centroid": 1321.641905825858,
+        "spectral_bandwidth": 1259.9493928005331,
+        "rolloff": 2287.2991555274566
+    }
+}

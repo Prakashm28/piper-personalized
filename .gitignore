@@ -1,0 +1,19 @@
+# Ignore Python virtual environment
+.venv/
+venv/
+
+# Ignore large Piper model files
+piper-voices/
+piper_base/**/*.onnx
+piper_base/**/*.json
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore build/cache
+*.log
